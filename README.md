@@ -9,8 +9,8 @@ CONTROLS
 
 The batsman with an asterisk before the name is the batsman on-strike. The following two controls this batsman.
 
-4. w/s arrow keys - Increase/Decrease batsman's score
-5. e/d arrow keys - Increase/Decrease balls-faced
+4. w/s keys - Increase/Decrease batsman's score
+5. e/d keys - Increase/Decrease balls-faced
 
 6. To change the batsman on-strike click the score of the required batsman. Then the asterisk will indicate the bastman on-strike.
 
