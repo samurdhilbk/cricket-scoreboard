@@ -1,0 +1,94 @@
+body {
+  background:linear-gradient(-60.76deg, #2c72bb 0%, #2697c2 57.96%, #4575d3 100%);
+}
+
+html {
+	overflow-y: hidden;
+}
+
+#score,#wickets{
+	display: inline-block;
+}
+
+#main{
+	height: 60vh;
+}
+
+#overs{
+	height: 35vh;
+}
+
+#batsmen{
+	height: 35vh;
+	border-top: 4px solid #fff;
+	border-left: 4px solid #fff;
+	background: #fff;
+}
+
+#info{
+	height: 10vh;
+}
+
+#bottom{
+	height: 10vh;
+}
+
+#score{
+	height: 60vh;
+	background-color: #fff;
+	width: 1vw;
+	border-bottom: 4px solid #fff;
+}
+
+#wickets{
+	height: 60vh;
+	width: 1vw;
+	
+}
+
+
+.ui.segment{
+	background: none;
+    border: 4px solid #fff;
+}
+
+.ui.horizontal.segments{
+	background:none;
+	border: 4px solid #fff;
+}
+
+.ui.vertical.segments{
+	background:none;
+	border: 4px solid #fff;
+}
+
+#main .ui.statistic>.value{
+    font-size: 50vh !important;
+}
+
+#main .ui.statistic>.label{
+    font-size: 5vh !important;
+}
+
+#overs .ui.statistic>.value{
+    font-size: 25vh !important;
+}
+
+#overs .ui.statistic>.label{
+    font-size: 4vh !important;
+}
+
+#wrapper{
+	margin: 1vw;
+	border: 4px solid #fff;
+}
+
+#bats1name,#bats2name{
+	display: table-cell;
+}
+
+.h-center{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
